@@ -3,7 +3,7 @@ Ask Lisa is an AI powered chatbot experiment that provides users with animated v
 
 # Demo:
 https://bhaskartripathi-text2videolisa.hf.space
-[![Output image](Asklisa.png)](https://github.com/bhaskatripathi/bhaskartripathi/blob/main/skillset.png)
+[![Output image](Asklisa.png)](https://bhaskartripathi-text2videolisa.hf.space)
 
 ## Web Component
 ```
