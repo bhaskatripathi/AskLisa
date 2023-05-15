@@ -20,3 +20,9 @@ docker run -it -p 7860:7860 --platform=linux/amd64 \
   ```
 ## Note
 Please Star this project if you like it.
+
+# TODO
+1. Lip Synching using Wav2Lip
+2. Real time Voice Cloning support of own individual voice
+3. Create a Next.js based app
+4. Autoplay video after taking input.
