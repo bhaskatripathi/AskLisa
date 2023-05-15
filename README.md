@@ -18,3 +18,5 @@ https://bhaskartripathi-text2videolisa.hf.space
 docker run -it -p 7860:7860 --platform=linux/amd64 \
 	registry.hf.space/bhaskartripathi-text2videolisa:latest python app.py
   ```
+## Note
+Please Star this project if you like it.
